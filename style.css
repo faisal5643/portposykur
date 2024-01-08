@@ -10,3 +10,15 @@
 section {
   padding-top: 5rem;
 }
+
+.social-media {
+  display: flex;
+}
+
+.social-media a {
+  margin-right: 13px;
+}
+
+.social-media img {
+  width: 25px; /* Sesuaikan dengan lebar ikon sosial media yang Anda miliki */
+}
